@@ -1,0 +1,73 @@
+body{
+	background: #A9A9A9;
+    background-position: static;
+    margin: 0;
+}
+
+header {
+	background-color: #1C1C1C;
+	padding: 30px;
+	text-align: center;
+}
+
+nav{
+	overflow: hidden;
+	background-color: black;
+	padding: 5px 0px;
+}
+
+nav a{
+	float: lef;
+	color: : white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17;
+	font: arial;
+}
+
+
+nav a.ativo{
+	background-color: black;
+	color: white;
+}
+
+div{
+	padding: 16px;
+}
+
+h1{
+	text-align: center;
+	font: Arial;
+	font-size: 60px;
+	text-shadow: 2px 2px 3px black;
+}
+
+h2{
+	text-align: left;
+	font: Arial;
+	font-size: 30px;
+	text-shadow: 2px 2px 3px black;
+}
+
+h3{
+	text-align: left;
+	font: Arial;
+	font-size: 20px;
+	text-shadow: 2px 2px 3px black;
+}
+
+h6{
+	text-align: center;
+	font: Arial;
+	font-size: 25px;
+	text-shadow: 2px 2px 3px black;
+	color: white;
+	}
+
+p{
+	font: Arial;
+	text-align: left;
+	font-size: 17px;
+}
+
